@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2260d80b-71bc-4e93-9da3-8a3c88ccec29" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/contracts/prediction-market.clar" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/prediction-market.clar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/prediction-market.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/prediction-market.test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +48,9 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2pAW6Dheh6JHW7UClOlji9CscFd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,11 +60,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
+    "last_opened_file_path": "/Users/chineduofor/Documents/GitHub/DecentralizedPredictionMarket/tests",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/chineduofor/Documents/GitHub/DecentralizedPredictionMarket/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732209184158</updated>
-      <workItem from="1732209187142" duration="306000" />
+      <workItem from="1732209187142" duration="610000" />
     </task>
     <servers />
   </component>
